@@ -14,5 +14,5 @@ O projeto consiste em um sistema digital interativo para a realização de sorte
 - ``Html5``
 
 - ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
-https://github.com/LipeSilva83/Amigo-Secreto.git
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LipeSilva83/Amigo-Secreto/tree/main).
+
